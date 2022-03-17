@@ -27,7 +27,7 @@ const onsenUI = [
     'https://unpkg.com/onsenui@2.11.2/css/material-design-iconic-font/css/material-design-iconic-font.min.css',
     'https://unpkg.com/onsenui@2.11.2/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2'
 ];
-const filesToCache = ["https://kingstonkrunal.github.io/INFO-6128-QRCode-Scanner/", "capture.js", ...libScripts, ...onsenUI];
+const filesToCache = ["https://kingstonkrunal.github.io/INFO-6128_QRCode_Scanner_Lab/", "capture.js", ...libScripts, ...onsenUI];
 
 /** 1 - USE SELF.IMPORTSCRIPTS TO IMPORT THE LIBRARY SCRIPTS **/
 self.importScripts(...libScripts)
