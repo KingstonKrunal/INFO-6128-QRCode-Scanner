@@ -30,7 +30,7 @@ const onsenUI = [
 const filesToCache = ["https://kingstonkrunal.github.io/INFO-6128_QRCode_Scanner_Lab/", "capture.js", ...libScripts, ...onsenUI];
 
 /** 1 - USE SELF.IMPORTSCRIPTS TO IMPORT THE LIBRARY SCRIPTS **/
-self.importScripts(...libScripts, ...onsenUI)
+self.importScripts(...libScripts)
 /** 1a - THIS WILL EXPOSE THE qrcode OBJECT IN YOUR SERVICE WORKER CODE **/
 /** RESOURCE - https://developer.mozilla.org/en-US/docs/Web/API/WorkerGlobalScope/importScripts */
 
