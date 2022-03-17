@@ -1,7 +1,7 @@
 {
   "name": "Krunal Shah QR Code Scanner",
   "short_name": "QR Code Scanner",
-  "start_url": "https://kingstonkrunal.github.io/INFO-6128_QRCode_Scanner_Lab/",
+  "start_url": "https://kingstonkrunal.github.io/INFO-6128-QRCode-Scanner/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
