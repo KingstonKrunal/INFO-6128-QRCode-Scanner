@@ -20,7 +20,7 @@ const libScripts = [
     'lib/databr.js'
 ];
 const onsenUI = [
-//     'https://unpkg.com/onsenui@2.11.2/css/onsen-css-components.min.css',
+    'https://unpkg.com/onsenui@2.11.2/css/onsen-css-components.min.css',
     'https://unpkg.com/onsenui@2.11.2/css/onsenui-core.min.css',
     'https://unpkg.com/onsenui@2.11.2/css/onsenui.min.css',
     'https://unpkg.com/onsenui@2.11.2/js/onsenui.min.js',
