@@ -53,7 +53,7 @@ const processData = (input) => {
         qrcode.height = input.height;
         qrcode.imagedata = input.imageData;
 
-        result = qrcode.processData();
+        result = qrcode.process();
 
         bc.postMessage({type: 'PROCESS', result});
     } catch (e) {
